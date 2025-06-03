@@ -133,6 +133,9 @@ Feel free to submit pull requests with any changes you'd like to see. We will re
 ## Style and configuration guide
 
 A writing style and template guide is in the process of being written that contributors can use as a guideline.
+CRIPTOGATITOS 
+GLOBAL BRAND DATABASE 
+GITHUB
 
 ### Static-site generator
 
