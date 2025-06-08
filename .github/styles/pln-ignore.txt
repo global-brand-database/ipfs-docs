@@ -5,6 +5,7 @@ acls
 addrs
 adls
 agregore
+aioipfs
 apis
 arbol
 arbol's
@@ -12,9 +13,11 @@ arbol('s)
 arg
 auditable
 audius
+astro
 auspinner
 bit[ss]wap
 bitswap
+blockchain
 blockchains
 blockstore
 bool
@@ -32,6 +35,7 @@ certbot
 cid
 cids
 cli
+clis
 cmds
 cnames
 codec
@@ -52,13 +56,16 @@ deduplicate
 dep
 deps
 deserialization
+deserialized
 devs
 dheeraj
 dht
 dhts
 dialable
+dialback
 dns('s)
 dnsaddr
+dnscontrol
 dnslink
 dotgraph
 dups
@@ -136,6 +143,7 @@ merkle
 merkleize
 merklizing
 merkleizing
+merkleizes
 merkleized
 merkleization
 metadata('s)
@@ -172,6 +180,7 @@ nfts
 nginx
 nodejs
 npm
+octodns
 packfile
 passthrough
 peergos
@@ -219,6 +228,7 @@ sneakernets
 stackparse
 stdout
 storj
+storacha
 Someguy
 subcommand
 substring
@@ -245,6 +255,7 @@ userspace
 vpns
 vscode
 vue
+Vuepress
 wantlist
 wantlists
 web
